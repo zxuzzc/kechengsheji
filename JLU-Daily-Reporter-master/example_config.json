@@ -1,0 +1,31 @@
+{
+	"transaction": "BKSMRDK",
+	"users": [
+		{
+			"username": "zhangsan2120",
+			"password": "password",
+			"fields": {
+				"fieldSQxq": "1",
+				"fieldSQgyl": "1",
+				"fieldSQqsh": "1088",
+				"fieldSQnj": "2118",
+				"fieldSQnj_Name": "2018",
+				"fieldSQbj": "881",
+				"fieldSQbj_Name": "211827"
+			}
+		},
+		{
+			"username": "lisi2120",
+			"password": "password",
+			"fields": {
+				"fieldSQxq": "1",
+				"fieldSQgyl": "1",
+				"fieldSQqsh": "1088",
+				"fieldSQnj": "2118",
+				"fieldSQnj_Name": "2018",
+				"fieldSQbj": "881",
+				"fieldSQbj_Name": "211827"
+			}
+		}
+	]
+}
